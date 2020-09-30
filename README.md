@@ -1,4 +1,4 @@
-omg-android-tutorial
+omg-android-tutorial- Android Development
 ==================
 
 A sample project to introduce the basics of Android app development. 
